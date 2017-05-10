@@ -11,3 +11,11 @@ Bloom indicator (battery percentage):
 - 60-100: Fast
 - 20-59: Medium
 - 0-19: Slow
+
+Changelog:
+v1.1
+- Unnoticeable opacity tilt effect
+- Unannounced shortcut tap
+
+v1.0
+- Initial release
